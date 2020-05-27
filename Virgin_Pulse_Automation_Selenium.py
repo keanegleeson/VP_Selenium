@@ -12,7 +12,7 @@ Then, selects got it on cards to get points.
 Then, it proceeds to enter in daily health stats on healthy habits.
 """
 
-#Automate annoying Virgin Pulse data entry to get my $400
+#Automate Virgin Pulse data entry to get my $400
 
 #import Selenium and import the webdriver
 from selenium import webdriver
